@@ -239,23 +239,23 @@ background: linear-gradient(168deg, rgba(236,179,241,1) 0%, rgba(127,9,136,1) 10
 
 .cards__card{
   margin-bottom: 30px;
-  margin-left: 8%;
+  margin-left: 5%;
   background-color: white;
   border-radius: 30px;
   box-shadow: 2px 2px 2px 2px whitesmoke;
-  width: 329px;
+  width: 90%;
 }
 .cards__card-bottom{
-  margin-bottom: 0px;
-  margin-left: 35px;
+  margin-bottom: 30px;
+  margin-left: 5%;
   background-color: white;
   border-radius: 30px;
   box-shadow: 2px 2px 2px 2px whitesmoke;
-  width: 329px;
+  width: 90%;
 }
 .img__card{
   border-radius: 30px 30px 0px 0px;
-  width: 329px;
+  width: 100%;
   height: 220px;
 }
 .new__card__img{
@@ -276,7 +276,7 @@ background: linear-gradient(168deg, rgba(236,179,241,1) 0%, rgba(127,9,136,1) 10
   display: flex;
     flex-direction: row;
     padding-left: 15px;
-    width: 300px;
+    width: 88%;
 }
 
 .heart__homepage{
@@ -335,7 +335,7 @@ background: linear-gradient(168deg, rgba(236,179,241,1) 0%, rgba(127,9,136,1) 10
 
 .nav--bar{
   display: flex;
-  width: 320px;
+  width: 90%;
   height: 70px;
   border-radius: 15px;
   margin-bottom: 15px;
@@ -419,8 +419,8 @@ footer{
   background-color: $lightgrey;
   border-radius: 30px 30px 0px 0px;
   position: absolute;
-    width: 398px;
-    margin-top: -15px;
+    width: 100%;
+    margin-top: -30px;
 }
 
 .restaurant_title-page{
@@ -465,6 +465,7 @@ footer{
 
 .img__card-pages{
   
+  width: 102%;
   height: 300px;
   margin-top: 20px;
   background-size: cover;
@@ -562,12 +563,13 @@ background: linear-gradient(168deg, rgba(236,179,241,1) 0%, rgba(127,9,136,1) 10
 
 .pages__footer{
   background-color: $darkgrey;
-
-  margin-top: 1045px;
+width: 100%;
+  margin-top: 1029px;
 }
 .pages__footer-4starters {
   background-color: rgb(53, 53, 53);
-  margin-top: 1128px;
+  margin-top: 1113px;
+  width: 100%;
 }
 
 
@@ -725,6 +727,7 @@ background: linear-gradient(168deg, rgba(236,179,241,1) 0%, rgba(127,9,136,1) 10
 .nav--bar{
 width: 27%;
 margin-left: 2%;
+height: 86px;
 }
 .nav--bartext{
   padding-left: 8%;
@@ -781,6 +784,7 @@ margin-left: 2%;
 
 
 .main__pages{
+  margin-top: -15px;
   width: 99%;
 }
 .header_flex{
@@ -836,7 +840,7 @@ margin-left: 2%;
   margin-left: 34%;
 }
 .pages__footer{
-  margin-top: 447px;
+  margin-top: 438px;
 }
 
 .pages__footer-4starters{
@@ -881,7 +885,7 @@ margin-left: 2%;
 .desktop_flex
 {display: flex;}
 .cards{
-  padding-bottom: 300px;
+  padding-bottom: 120px;
 }
 .cards__card{
   width: 22%;
@@ -920,6 +924,7 @@ margin-left: 2%;
 
 
 .main__pages{
+  margin-top: -15px;
   width: 99%;
 }
 .header_flex{
@@ -982,5 +987,6 @@ margin-left: 2%;
 }
 
  }
+
 
 
