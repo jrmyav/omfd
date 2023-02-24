@@ -187,7 +187,7 @@ header {
   width: 180px;
   border-width: inherit;
  
-  background: linear-gradient(168deg, #FF79DA 0%, rgb(127, 9, 136) 100%);
+  background: linear-gradient(168deg, #FF79DA 0%, #9356DC 100%);
   color: white;
   transition: transform 450ms;
 }
@@ -461,7 +461,7 @@ footer {
 }
 
 .img__card-pages {
-  width: 102%;
+  width: 104%;
   height: 300px;
   margin-top: 20px;
   background-size: cover;
@@ -537,7 +537,7 @@ footer {
   width: 180px;
   border-width: inherit;
   background: rgb(236, 179, 241);
-  background: linear-gradient(168deg, #FF79DA 0%, rgb(127, 9, 136) 100%);
+  background: linear-gradient(168deg, #FF79DA 0%, #9356DC 100%);
   color: white;
   transition: transform 450ms;
   margin-bottom: 8px;
@@ -550,7 +550,7 @@ footer {
 
 .pages__footer {
   background-color: rgb(53, 53, 53);
-  width: 100%;
+  width: 104%;
   margin-top: 1029px;
 }
 
